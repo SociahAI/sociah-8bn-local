@@ -13,9 +13,6 @@
 
 ## 📝 Overview
 
-<p align="center">
-  <img src='assets/intro-new-logo.png' width=900>
-</p>
 Socius is an AI-driven social simulation platform where autonomous agents interact at scale, generating dynamic conversations, behaviors, and emergent social structures. It builds upon the foundation of the original [Original Project Name] while introducing unique enhancements tailored for large-scale AI social interactions.
 
 ### Key Features
